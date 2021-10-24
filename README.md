@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @nataliapiet
-- 👀 I’m interested in data analysis/data visualisations
+- 👀 I’m interested in data analysis/data visualisation
 - 🌱 I’m currently learning SQL/Python/Tableau
 - 📫 How to reach me nat.pietruczuk@gmail.com
 
